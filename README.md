@@ -5,9 +5,6 @@ Others are
 - Service Workers,
 - Shared Workers,
 
-##### Demo:
-
-
 #### To Run on Local Machine:
 
 ##### Install Dependencies
