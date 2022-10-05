@@ -1,0 +1,34 @@
+html,
+body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -60px;
+}
+.hide {
+  display: none;
+  margin-top: 3%;
+}
+
+#resultBox {
+  background-color: darkgray;
+}
+
+.output {
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 24px;
+  color: inherit;
+  margin-top: 20px;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  margin-top: 5%;
+}
